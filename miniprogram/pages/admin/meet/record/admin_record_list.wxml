@@ -8,14 +8,14 @@
 				<view class="table-form">
 					<view class="item">
 						<view class="title">起始日期：</view>
-						<cmpt-picker-time mode="day" style="flex:1" startYear="2022" endYear="2025" item="{{searchDayStart}}" bind:select="url" data-type='picker' data-item="searchDayStart">
+						<cmpt-picker-time mode="day" style="flex:1" startYear="2022" endYear="2028" item="{{searchDayStart}}" bind:select="url" data-type='picker' data-item="searchDayStart">
 							<view class="content">{{searchDayStart}}<text wx:if="{{!searchDayStart}}" class="margin-left-xxs icon-calendar"></text></view>
 						</cmpt-picker-time>
 					</view>
 
 					<view class="item">
 						<view class="title">结束日期：</view>
-						<cmpt-picker-time mode="day" style="flex:1" startYear="2022" endYear="2025" item="{{searchDayEnd}}" bind:select="url" data-type='picker' data-item="searchDayEnd">
+						<cmpt-picker-time mode="day" style="flex:1" startYear="2022" endYear="2028" item="{{searchDayEnd}}" bind:select="url" data-type='picker' data-item="searchDayEnd">
 							<view class="content">{{searchDayEnd}}<text wx:if="{{!searchDayEnd}}" class="margin-left-xxs icon-calendar"></text></view>
 						</cmpt-picker-time>
 					</view>

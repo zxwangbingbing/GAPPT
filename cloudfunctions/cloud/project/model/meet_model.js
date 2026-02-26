@@ -1,7 +1,7 @@
 /**
  * Notes: 预约实体
  * Ver : CCMiniCloud Framework 2.0.1 ALL RIGHTS RESERVED BY cclinux@qq.com
- * Date: 2020-12-07 19:20:00
+ * Date:  12-07 19:20:00
  * Version : CCMiniCloud Framework Ver 2.0.1 ALL RIGHTS RESERVED BY 明章科技
  */
 

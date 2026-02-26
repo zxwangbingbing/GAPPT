@@ -1,7 +1,7 @@
 /**
  * Notes: 系统设置实体
  * Ver : CCMiniCloud Framework 2.0.1 ALL RIGHTS RESERVED BY cclinux@qq.com
- * Date: 2020-11-05 19:20:00
+ * Date:  11-05 19:20:00
  * Version : CCMiniCloud Framework Ver 2.0.1 ALL RIGHTS RESERVED BY 明章科技
  */
 

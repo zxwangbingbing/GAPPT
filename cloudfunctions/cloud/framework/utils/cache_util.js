@@ -1,7 +1,7 @@
 /**
  * Notes: 缓存相关函数
  * Ver : CCMiniCloud Framework 2.0.1 ALL RIGHTS RESERVED BY cclinux0730 (wechat)
- * Date: 2022-01-26 04:00:00 
+ * Date:  01-26 04:00:00 
  */
 
 const CacheModel = require('../../project/model/cache_model.js');

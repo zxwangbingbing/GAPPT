@@ -1,7 +1,7 @@
 /**
  * Notes: MYSQL数据库基本操作
  * Ver : CCMiniCloud Framework 2.0.1 ALL RIGHTS RESERVED BY cclinux@qq.com
- * Date: 2021-01-22 04:00:00 
+ * Date:  01-22 04:00:00 
  */
 
 const mysql = require('mysql');

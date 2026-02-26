@@ -1,7 +1,7 @@
 /**
  * Notes: 资讯模块控制器
  * Ver : CCMiniCloud Framework 2.0.1 ALL RIGHTS RESERVED BY cclinux@qq.com
- * Date: 2020-09-29 04:00:00 
+ * Date:  09-29 04:00:00 
  */
 
 const BaseController = require('./base_controller.js');

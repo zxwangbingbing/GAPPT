@@ -1,7 +1,7 @@
  /**
   * Notes: 数据校验类库
   * Ver : CCMiniCloud Framework 2.0.1 ALL RIGHTS RESERVED BY cclinux@qq.com
-  * Date: 2021-01-07 07:48:00 
+  * Date:  01-07 07:48:00 
   * 
 1 规则大循环
 2 规则内循环，取得数据项说明(默认空串)，缺省值(默认空串)，数据类型(默认String)

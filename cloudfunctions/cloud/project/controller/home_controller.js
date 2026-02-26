@@ -1,6 +1,6 @@
 /**
  * Notes: 全局或者主页模块控制器 
- * Date: 2020-11-05 10:20:00 
+ * Date:  11-05 10:20:00 
  */
 
 const BaseController = require('./base_controller.js');

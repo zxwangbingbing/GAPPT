@@ -8,14 +8,14 @@
 		</view>
 		<view class="form-group arrow">
 			<view class="title must">起始日期</view>
-			<cmpt-picker-time mark="startDay" mode="day" bind:select="url" data-type="picker" data-item="startDay" startYear="2021" endYear="2025" item="{{startDay}}">
+			<cmpt-picker-time mark="startDay" mode="day" bind:select="url" data-type="picker" data-item="startDay" startYear="2021" endYear="2028" item="{{startDay}}">
 				<view class="form-text">{{startDay||'请选择'}}</view>
 			</cmpt-picker-time>
 		</view>
 
 		<view class="form-group arrow">
 			<view class="title must">终止日期</view>
-			<cmpt-picker-time mark="endDay" mode="day" bind:select="url" data-type="picker" data-item="endDay" startYear="2021" endYear="2025" item="{{endDay}}">
+			<cmpt-picker-time mark="endDay" mode="day" bind:select="url" data-type="picker" data-item="endDay" startYear="2021" endYear="2028" item="{{endDay}}">
 				<view class="form-text">{{endDay||'请选择'}}</view>
 			</cmpt-picker-time>
 		</view>

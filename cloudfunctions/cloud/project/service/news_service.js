@@ -1,7 +1,7 @@
 /**
  * Notes: 资讯模块业务逻辑
  * Ver : CCMiniCloud Framework 2.0.1 ALL RIGHTS RESERVED BY cclinux@qq.com
- * Date: 2020-10-29 07:48:00 
+ * Date:  10-29 07:48:00 
  */
 
 const BaseService = require('./base_service.js');

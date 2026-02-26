@@ -1,7 +1,7 @@
 /**
  * Notes: 测试数据构造类
  * Ver : CCMiniCloud Framework 2.0.1 ALL RIGHTS RESERVED BY cclinux@qq.com
- * Date: 2021-05-26 14:00:00 
+ * Date:  05-26 14:00:00 
  */
 const config = require('../../config/config');
 const util = require('../utils/util.js');

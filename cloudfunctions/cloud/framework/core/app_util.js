@@ -1,7 +1,7 @@
 /**
  * Notes: 云函数业务主逻辑函数
  * Ver : CCMiniCloud Framework 2.0.1 ALL RIGHTS RESERVED BY cclinux@qq.com
- * Date: 2021-02-09 04:00:00 
+ * Date:  02-09 04:00:00 
  */
 
 const appCode = require('./app_code.js');

@@ -1,7 +1,7 @@
 /**
  * Notes: HTTP接口封装类库
  * Ver : CCMiniCloud Framework 2.0.1 ALL RIGHTS RESERVED BY cclinux@qq.com
- * Date: 2021-02-17 14:00:00 
+ * Date:  02-17 14:00:00 
  */
 const config = require('../../config/config');
 const util = require('../utils/util.js');

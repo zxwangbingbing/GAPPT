@@ -1,7 +1,7 @@
 /**
  * Notes: 用户实体
  * Ver : CCMiniCloud Framework 2.0.1 ALL RIGHTS RESERVED BY cclinux@qq.com
- * Date: 2020-10-14 19:20:00 
+ * Date:  10-14 19:20:00 
  */
 
 

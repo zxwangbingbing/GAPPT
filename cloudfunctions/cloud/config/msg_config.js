@@ -1,7 +1,7 @@
 /**
  * Notes: 消息提醒配置
  * Ver : CCMiniCloud Framework 2.0.1 ALL RIGHTS RESERVED BY cclinux@qq.com
- * Date: 2021-11-11 14:00:00 
+ * Date:  11-11 14:00:00 
  */
 
 module.exports = {

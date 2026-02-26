@@ -1,7 +1,7 @@
  /**
   * Notes: 数学计算相关操作函数
   * Ver : CCMiniCloud Framework 2.0.1 ALL RIGHTS RESERVED BY cclinux@qq.com
-  * Date: 2021-10-04 04:00:00 
+  * Date:  10-04 04:00:00 
   */
 
 

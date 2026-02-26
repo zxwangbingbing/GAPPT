@@ -1,6 +1,6 @@
 /**
  * Notes: 业务基类 
- * Date: 2021-03-15 04:00:00 
+ * Date:  03-15 04:00:00 
  */
 
 const AppError = require('../../framework/core/app_error.js');

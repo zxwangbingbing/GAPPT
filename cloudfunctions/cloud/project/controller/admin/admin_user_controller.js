@@ -1,7 +1,7 @@
 /**
  * Notes: 用户控制模块
  * Ver : CCMiniCloud Framework 2.0.1 ALL RIGHTS RESERVED BY cclinux@qq.com
- * Date: 2022-01-22 10:20:00 
+ * Date:  01-22 10:20:00 
  */
 
 const BaseAdminController = require('./base_admin_controller.js');

@@ -1,7 +1,7 @@
 /**
  * Notes: 图片处理相关函数
  * Ver : CCMiniCloud Framework 2.0.1 ALL RIGHTS RESERVED BY cclinux@qq.com
- * Date: 2021-10-25 04:00:00 
+ * Date:  10-25 04:00:00 
  */
 
 

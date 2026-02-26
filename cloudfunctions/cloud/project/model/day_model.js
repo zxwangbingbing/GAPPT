@@ -1,7 +1,7 @@
 /**
  * Notes: 预约日期设置实体
  * Ver : CCMiniCloud Framework 2.0.1 ALL RIGHTS RESERVED BY cclinux@qq.com
- * Date: 2021-01-25 19:20:00 
+ * Date:  01-25 19:20:00 
  */
 
 
